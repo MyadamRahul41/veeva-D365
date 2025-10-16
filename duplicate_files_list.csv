@@ -1,0 +1,87 @@
+Index,Filename,Document ID,Document Name,Status,Subtype,Has Spec,Spec Version
+1,Hello everyone.docx,9509,Hello everyone.docx,In Review,Regulatory Specification,Yes,V4A00000000A597
+1,Hello everyone.docx,9508,Hello everyone.docx,In Review,Regulatory Specification,Yes,V4A00000000A597
+1,Hello everyone.docx,9507,Hello everyone.docx,In Review,Regulatory Specification,No,
+1,Hello everyone.docx,9506,Hello everyone.docx,In Review,Regulatory Specification,No,
+1,Hello everyone.docx,9412,Hello everyone.docx,In Review,Analytical Cert.Product,Yes,V4A00000000A597
+1,Hello everyone.docx,9411,Hello everyone.docx,In Review,Regulatory Specification,Yes,V4A00000000A597
+1,Hello everyone.docx,9410,Hello everyone.docx,In Review,Regulatory Specification,No,
+2,my fav cat & chemistry.jpg,9505,my fav cat & chemistry,Draft,Biological Activities,Yes,V4A00000001L867
+2,my fav cat & chemistry.jpg,9504,my fav cat & chemistry,Draft,Biological Activities,Yes,V4A00000001L867
+2,my fav cat & chemistry.jpg,9503,my fav cat & chemistry,Draft,Biological Activities,Yes,V4A00000001L867
+3,test doc 2 - Copy.docx,9502,test doc 2 - Copy,Draft,Biological Activities,Yes,V4A00000001L867
+3,test doc 2 - Copy.docx,9501,test doc 2 - Copy,Draft,Biological Activities,Yes,V4A00000001L867
+3,test doc 2 - Copy.docx,8709,test doc 2 - Copy,Draft,Biological Activities,Yes,V4A00000001L867
+3,test doc 2 - Copy.docx,8608,test doc 2 - Copy,Released,Biological Activities,Yes,V4A00000001L504
+4,REQ-006610.pdf,9408,REQ-006610,Released,Toxicology,Yes,V4A00000001L867
+4,REQ-006610.pdf,9301,REQ-006610,Draft,Product Chemistry,Yes,V4A00000001L867
+5,PCS - one by one testing.docx,9306,PCS - one by one testing,Released,Toxicology,Yes,V4A000000017102
+5,PCS - one by one testing.docx,9202,Natalie Testing,Draft,Declaration of Composition,Yes,V4A000000017102
+6,unknown,9304,dfgtsdfg,Draft,Biological Activities,No,
+6,unknown,8101,New Registration - EPA - Submission,Draft,,No,
+6,unknown,6901,Copy Binder 2,Draft,,No,
+6,unknown,6802,Copy Binder,Submitted,,No,
+6,unknown,6801,new uses,Draft,,No,
+6,unknown,2130,830.1550| Product Identity and Composition,Draft,,No,
+6,unknown,1502,Sweeden New Registration - Signature Xtra,Submitted,,No,
+6,unknown,1501,US Template,Draft,,No,
+7,Registration Confirmation_FLU+TFS SC 32.5-(2025-06-03)-101563-157-2022 Enviromental Science S. de R..pdf,8501,Registration Confirmation_FLU+TFS SC 32.5-(2025-06-03)-101563-157-2022 Enviromental Science S. de R.,Draft,LoA (Letter of Access),Yes,V4A00000001M730
+7,Registration Confirmation_FLU+TFS SC 32.5-(2025-06-03)-101563-157-2022 Enviromental Science S. de R..pdf,8402,Registration Confirmation_FLU+TFS SC 32.5-(2025-06-03)-101563-157-2022 Enviromental Science S. de R.,Draft,Internal Requested Document,No,
+8,Big dashboard example - Copy.docx,8411,Big dashboard example - Copy,Draft,USA,No,
+8,Big dashboard example - Copy.docx,2129,101563-158 - PRL - AAA (R-153-01) 432-1537 Notification Company Name Updated. It was previously regi,Obsolete,USA,No,
+9,Registration Confirmation_FLU+TFS SC 32.5-(2025-01-09)-101563-157-2022 Enviromental Science S. de R..docx,8406,Registration Confirmation_FLU+TFS SC 32.5-(2025-01-09)-101563-157-2022 Enviromental Science S. de R.,Draft,LoA (Letter of Access),Yes,V4A00000001M730
+9,Registration Confirmation_FLU+TFS SC 32.5-(2025-01-09)-101563-157-2022 Enviromental Science S. de R..docx,8401,Registration Confirmation_FLU+TFS SC 32.5-(2025-01-09)-101563-157-2022 Enviromental Science S. de R.,Draft,LoA (Letter of Access),Yes,V4A00000000F082
+10,EA_NewReq00077_LOA Specific studies Indaziflam_Specticle G Herbicide (Spec 102000029955)_Envu Austra.pdf,7801,EA_NewReq00077_LOA Specific studies Indaziflam_Specticle G Herbicide (Spec 102000029955)_Envu Austra,Pre-Released,Letter,No,
+10,EA_NewReq00077_LOA Specific studies Indaziflam_Specticle G Herbicide (Spec 102000029955)_Envu Austra.pdf,7205,EA_NewReq00077_LOA Specific studies Indaziflam_Specticle G Herbicide (Spec 102000029955)_Envu Austra,Released,LoA (Letter of Access),Yes,V4A00000000D062
+10,EA_NewReq00077_LOA Specific studies Indaziflam_Specticle G Herbicide (Spec 102000029955)_Envu Austra.pdf,7004,EA_NewReq00077_LOA Specific studies Indaziflam_Specticle G Herbicide (Spec 102000029955)_Envu Austra,In Review,Regulatory Specification,Yes,V4A00000000A236
+10,EA_NewReq00077_LOA Specific studies Indaziflam_Specticle G Herbicide (Spec 102000029955)_Envu Austra.pdf,7002,EA_NewReq00077_LOA Specific studies Indaziflam_Specticle G Herbicide (Spec 102000029955)_Envu Austra,Pre-Released,Letter,Yes,V4A00000000D122
+11,Big dashboard example.docx,7502,Other Correspondence_global - _FLU+TFS SC 32.5 (2025-07-31): 1,Pre-Released,Other,No,
+11,Big dashboard example.docx,7401,Other Correspondence_global - _FLU+TFS SC 32.5 (2025-07-10): 1,Pre-Released,Other,No,
+11,Big dashboard example.docx,2210,1234 - PRL - AAA (R-153-01) test,Draft,USA,No,
+11,Big dashboard example.docx,2128,101563-63 - PRL - AAA (R-153-01) 432-1328 Merit 0.5 G Insecticide: BRIDG Upload (12/23/2013),Draft,USA,No,
+11,Big dashboard example.docx,1401,Registration Confirmation_FLU+TFS SC 32.5-(2025-01-09)-101563-157-2022 Enviromental Science S. de R.,Released,Registration Confirmation,No,
+11,Big dashboard example.docx,902,101563-141 - ML - CELSIUS® WG (R-140-07): 5453,Draft,USA,No,
+11,Big dashboard example.docx,901, - ML - CELSIUS® WG (R-140-07): 452,Draft,USA,No,
+11,Big dashboard example.docx,802,EPA Stamped Approved Label (2024-12-25) - 101563-141_CELSIUS® WG (R-140-07): test 2,Released,USA,No,
+11,Big dashboard example.docx,801,EPA Stamped Approved Label (2024-12-28) - 101563-141_CELSIUS® WG (R-140-07): test,Released,USA,No,
+12,EA_NewReq00077_LOA Specific studies Indaziflam_Specticle G Herbicide (Spec 102000029955)_Envu Austra (1).pdf,7501,EA_NewReq00077_LOA Specific studies Indaziflam_Specticle G Herbicide (Spec 102000029955)_Envu Austra,In Review,LoS (Letter of Supply),No,
+12,EA_NewReq00077_LOA Specific studies Indaziflam_Specticle G Herbicide (Spec 102000029955)_Envu Austra (1).pdf,7316,EA_NewReq00077_LOA Specific studies Indaziflam_Specticle G Herbicide (Spec 102000029955)_Envu Austra,Pre-Released,Other,Yes,V4A00000000E744
+12,EA_NewReq00077_LOA Specific studies Indaziflam_Specticle G Herbicide (Spec 102000029955)_Envu Austra (1).pdf,7304,Registration Confirmation_-()--: ,Pre-Released,Registration Confirmation,Yes,V4A000000009280
+13,M-463130-01-1.pdf,7319,M-463130-01-1.pdf,In Review,LoS (Letter of Supply),Yes,V4A00000000D062
+13,M-463130-01-1.pdf,2807,Label_Global_English -   (2025-03-05): testing,Pre-Released,Label,No,
+13,M-463130-01-1.pdf,2806,M-463130-01-1,Draft,Origin of Supply,No,
+14,EA_NewReq00077_LOA Specific studies Indaziflam_Specticle G Herbicide (Spec 102000029955)_Envu Australia_Bayer AG.pdf,7307,EA_NewReq00077_LOA Specific studies Indaziflam_Specticle G Herbicide (Spec 102000029955)_Envu Austra,Draft,Origin of Supply,Yes,V4A00000000A238
+14,EA_NewReq00077_LOA Specific studies Indaziflam_Specticle G Herbicide (Spec 102000029955)_Envu Australia_Bayer AG.pdf,7001,EA_NewReq00077_LOA Specific studies Indaziflam_Specticle G Herbicide (Spec 102000029955)_Envu Austra,Draft,Regulatory Specification,Yes,V4A00000000A238
+15,REQ-000236.pdf,7305,REQ-000236.pdf,Released,LoA (Letter of Access),Yes,V4A000000008943
+15,REQ-000236.pdf,7207,REQ-000236.pdf,Released,LoA (Letter of Access),Yes,V4A000000008943
+16,Solfac - draft COC TC.docx,7206,Solfac - draft COC TC.docx,Released,LoA (Letter of Access),Yes,V4A00000000D062
+16,Solfac - draft COC TC.docx,3208,Solfac - draft COC TC.docx,Draft,Origin of Supply,Yes,V4A00000000A271
+16,Solfac - draft COC TC.docx,3109,Solfac - draft COC TC.docx,Draft,Origin of Supply,Yes,V4A00000000A271
+16,Solfac - draft COC TC.docx,3108,Solfac - draft COC TC.docx,Draft,Origin of Supply,Yes,V4A00000000A271
+16,Solfac - draft COC TC.docx,2605,Solfac - draft COC TC.docx,Draft,Origin of Supply,Yes,V4A000000008413
+16,Solfac - draft COC TC.docx,2604,Solfac - draft COC TC.docx,Released,Origin of Supply,Yes,V4A000000008413
+17,"Registration Confirmation_TURDIAN GR-(2025-02-12)-24951-MAFF - Ministry of Agriculture, Forestry and Ministry  Ministry  Ministry (1).pdf",6704,"Registration Confirmation_TURDIAN GR-(2025-02-12)-24951-MAFF - Ministry of Agriculture, Forestry and",Draft,Declaration of Composition,No,
+17,"Registration Confirmation_TURDIAN GR-(2025-02-12)-24951-MAFF - Ministry of Agriculture, Forestry and Ministry  Ministry  Ministry (1).pdf",6603,"Registration Confirmation_TURDIAN GR-(2025-02-12)-24951-MAFF - Ministry of Agriculture, Forestry and",Obsolete,LoA (Letter of Access),Yes,V4A00000000G082
+18,temp_042025_2.docx,5302,Test Name,Draft,Biological Activities,No,
+18,temp_042025_2.docx,5301,Test Name,Draft,Test Method,No,
+18,temp_042025_2.docx,5203,Test Name,Draft,Test Method,No,
+18,temp_042025_2.docx,5202,Test Name,Draft,Test Method,No,
+19,"My name is ashwaq, i live in hyderabd_i like eating noodles, I work in databeat, my _Best collegue is rahul, his best friend is We have 250 people in databeat Nithish,_.pdf",4713,"Mynameisashwaq,iliveinhyderabd_ilikeeatingnoodles,Iworkindatabeat,my_Bestcollegueisrahul,hisbestfri",Draft,LoA (Letter of Access),Yes,V4A00000000A937
+19,"My name is ashwaq, i live in hyderabd_i like eating noodles, I work in databeat, my _Best collegue is rahul, his best friend is We have 250 people in databeat Nithish,_.pdf",4626,"Mynameisashwaq,iliveinhyderabd_ilikeeatingnoodles,Iworkindatabeat,my_Bestcollegueisrahul,hisbestfri",Reviewed,LoA (Letter of Access),Yes,V4A00000000A937
+19,"My name is ashwaq, i live in hyderabd_i like eating noodles, I work in databeat, my _Best collegue is rahul, his best friend is We have 250 people in databeat Nithish,_.pdf",4625,"Mynameisashwaq,iliveinhyderabd_ilikeeatingnoodles,Iworkindatabeat,my_Bestcollegueisrahul,hisbestfri",Reviewed,LoA (Letter of Access),Yes,V4A00000000A937
+19,"My name is ashwaq, i live in hyderabd_i like eating noodles, I work in databeat, my _Best collegue is rahul, his best friend is We have 250 people in databeat Nithish,_.pdf",4624,"Mynameisashwaq,iliveinhyderabd_ilikeeatingnoodles,Iworkindatabeat,my_Bestcollegueisrahul,hisbestfri",Draft,Declaration of Composition,Yes,V4A000000009587
+20,REQ-000182.pdf,3239,REQ-000182.pdf,Pre-Released,Letter,Yes,V4A00000000A683
+20,REQ-000182.pdf,3238,REQ-000182.pdf,Pre-Released,Letter,Yes,V4A00000000A683
+20,REQ-000182.pdf,3237,REQ-000182.pdf,Pre-Released,Letter,Yes,V4A00000000A683
+20,REQ-000182.pdf,3236,REQ-000182.pdf,Pre-Released,Letter,Yes,V4A00000000A683
+20,REQ-000182.pdf,3235,BES-000306,Pre-Released,Approval Publication,Yes,V4A00000000A683
+20,REQ-000182.pdf,3143,REQ-000182.pdf,Pre-Released,Letter,Yes,V4A00000000A683
+20,REQ-000182.pdf,3142,REQ-000182.pdf,Pre-Released,Letter,Yes,V4A00000000A683
+20,REQ-000182.pdf,3141,REQ-000182.pdf,Pre-Released,Letter,Yes,V4A00000000A683
+20,REQ-000182.pdf,3140,REQ-000182.pdf,Pre-Released,Letter,Yes,V4A00000000A683
+21,M-463130-01-1 (1).pdf,2903,Label_Argentina_English -  FLU+TFS SC 32.5 (2025-03-05): test,Released,LoA (Letter of Access),Yes,V4A000000007829
+21,M-463130-01-1 (1).pdf,2902,M-463130-01-1 (1),Unclassified,,No,
+22,101563-36_Topchoice Insecticide-label (small).pdf,1705,101563-36_Topchoice Insecticide-label (small),Released,USA,No,
+22,101563-36_Topchoice Insecticide-label (small).pdf,1703,101563-36 - ML - CHIPCO® Topchoice® Insecticide (R-213-01): 101563-36,Released,USA,No,
+23,101563-207 - PRL - Specticle Flo Herbicide (R-05-02) file name change.docx,1701,101563-20 - PRL - Specticle Flo Herbicide (R-1031-05) BES-015805,Draft,USA,No,
+23,101563-207 - PRL - Specticle Flo Herbicide (R-05-02) file name change.docx,207,101563-207 - PRL - Specticle Flo Herbicide () BES-015805,Draft,USA,No,

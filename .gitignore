@@ -1,0 +1,30 @@
+config.py
+
+# Environment variables file (contains sensitive credentials)
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Log files
+*.log
+
+# Output files
+failed_uploads.json
+missing_versions_files.json
+duplicate_files_report.json
+duplicate_list.log
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
