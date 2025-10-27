@@ -34,7 +34,6 @@ VEEVA_BASE_URL = os.getenv('VEEVA_BASE_URL')
 VEEVA_TOKEN = os.getenv('VEEVA_TOKEN')
 
 DRIVE_ID = os.getenv('sharepointProdDriveID')
-FOLDER_NAME = os.getenv('FOLDER_NAME', 'veeva_documents')
 
 # Performance settings - Load from environment with defaults
 MAX_WORKERS = int(os.getenv('MAX_WORKERS', '20'))  # Number of parallel uploads
@@ -245,7 +244,6 @@ class VeevaToSharePointUploader:
 
             # Check if file exists and find unique name
             while True:
-                folder_encoded = FOLDER_NAME.replace(" ", "%20")
                 filename_encoded = current_filename.replace(" ", "%20")
                 check_url = f"https://graph.microsoft.com/v1.0/drives/{DRIVE_ID}/root:/{filename_encoded}"
 
