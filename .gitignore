@@ -28,3 +28,8 @@ ENV/
 .idea/
 *.swp
 *.swo
+
+SDS-ProdCleaned.xlsx
+SharepointLinkUpdate.xlsx
+SharepointLinkUpdateUAT.xlsx
+sharepointProdlinks.csv
